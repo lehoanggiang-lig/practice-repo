@@ -1,3 +1,3 @@
 # Practice
 
-What it Git and Github?
+What is Git and Github?
